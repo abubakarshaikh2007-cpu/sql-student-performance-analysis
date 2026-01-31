@@ -1,0 +1,5 @@
+This project is a basic SQL analysis project created to practice fundamental database concepts. A small student dataset is used to understand how data can be stored, filtered, grouped, and evaluated using SQL queries.
+The dataset contains student information such as name, gender, marks, attendance, and department. Using SQL queries, different analyses are performed to extract meaningful information from the data.
+The project shows all student records to understand the structure of the table. It identifies students who scored more than 70 marks to find high-performing students. It calculates the average marks for each department to compare overall performance. It filters students with attendance greater than 75 to find students with good attendance. It also classifies students as Pass or Fail based on their marks using logical conditions.
+This project helps in understanding real-world use of SQL queries such as SELECT, WHERE, GROUP BY, AVG, and CASE. It is suitable for beginners who want to strengthen their SQL basics and learn how data analysis works in databases.
+Author: Shaikh Abubakar
